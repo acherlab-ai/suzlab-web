@@ -1,0 +1,6 @@
+{
+  "name": "SuzLab – Tech Research & Development Showcase",
+  "description": "Official showcase website for SuzLab, an exploratory tech lab within the AcherLab ecosystem. Build. Experiment. Evolve. Official announcement on December 10, 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
